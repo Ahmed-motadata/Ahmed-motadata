@@ -14,9 +14,10 @@
 
 - 📄 My Resume: [Here!](https://tr.ee/sGLfV-FUt1)
 
-
+<br>
+<br>
 🎓 Pre-Final Year CSE student passionate about Data Science, Machine Learning, and AI.<br>
-💼 B.Tech in CSE from CSPIT - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi.
+💼 B.Tech in CSE from CSPIT - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi.<br>
 🌟 Preferred Languages: Python/C++.<br>
 🚀 Deeply interested in Large Language Models (LLMs) and Generative AI.<br>
 
