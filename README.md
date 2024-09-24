@@ -1,3 +1,31 @@
+<h1 align="center">Hi 👋, I'm Ahmed Raza N. Ansari</h1>
+<h3 align="center">ML Enthusiast who loves Poetries and Books!</h3><br>
+
+
+
+
+- 🔭 I’m currently working on **Machine Learning and Data Science**
+
+- 🌱 I’m currently learning **LLMs, LMMs, NLP, RAG, ML and DS**
+
+- 👨‍💻 Find all my links at [LinkTree](linktr.ee/ahmed1ansari)
+
+- 📫 Reach me via email at: **ahmedraza1ansari@gmail.com**
+
+- 📄 My Resume: [Here!](https://tr.ee/sGLfV-FUt1)
+
+
+🎓 Pre-Final Year CSE student passionate about Data Science, Machine Learning, and AI.<br>
+💼 B.Tech in CSE from CSPIT - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi.
+🌟 Preferred Languages: Python/C++.<br>
+🚀 Deeply interested in Large Language Models (LLMs) and Generative AI.<br>
+
+**What I Do** <br>
+🤖 Actively engaged in exploring the frontiers of innovation in ML and DS.<br>
+💻 Love participating in competitive programming contests, hackathons, and tech meetups/conferences.
+
+📚 Hobbies include reading Classics/Novels and sketching, and writing poetries.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004944645046) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/apoetry_aday/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-1-ansari/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ahmedraza1ansari) 
